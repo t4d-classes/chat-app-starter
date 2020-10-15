@@ -8,7 +8,7 @@ To start the Node.js application, change into the `server-app` folder, and run t
 npm start
 ```
 
-To run the React application, open a new terminal window, change into the `client-app` folder, and run the following command.
+To run the React application, open a new terminal window, change into the `client-app-js` folder (for JavaScript) or the `client-app-ts` folder (for TypeScript), and run the following command.
 
 ```bash
 npm start
